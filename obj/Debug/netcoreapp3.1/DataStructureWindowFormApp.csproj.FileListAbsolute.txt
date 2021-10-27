@@ -1,0 +1,16 @@
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.exe
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.deps.json
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.runtimeconfig.json
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.runtimeconfig.dev.json
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.dll
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\bin\Debug\netcoreapp3.1\DataStructureWindowFormApp.pdb
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.csproj.AssemblyReference.cache
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.Form1.resources
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.csproj.GenerateResource.cache
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.AssemblyInfoInputs.cache
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.AssemblyInfo.cs
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.csproj.CoreCompileInputs.cache
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.dll
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.pdb
+C:\Users\gordon.fan\source\repos\DataStructureWindowFormApp\DataStructureWindowFormApp\obj\Debug\netcoreapp3.1\DataStructureWindowFormApp.genruntimeconfig.cache
